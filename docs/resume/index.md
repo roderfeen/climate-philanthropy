@@ -1,3 +1,0 @@
-# Work experience
-
-# Publications
