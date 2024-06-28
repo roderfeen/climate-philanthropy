@@ -10,7 +10,7 @@
 * [gitee page国内访问更快](https://jackiegeek.gitee.io/blog/)
 
 
-## Support syntax支持的语法
+## Support syntax
 
 | origin原始                  | convert转换后                             |
 | ----------------------- | ----------------------------------- |
