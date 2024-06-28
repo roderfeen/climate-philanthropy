@@ -1,4 +1,5 @@
-flowchart TD
+```mermaid
+flowchart TD;
 GrandMaMom("👵 Wàipó\n外婆\nMother's mother")
 
 GrandPaMom("👴 Wàigōng\n外公\nMother's father")
@@ -188,3 +189,4 @@ SiblingsMom --> MomSideCousinElderBro & MomSideCousinElderSister & MomSideCousin
 Me --> Son & Daughter
 
 SonsFamily --> Grandson & Granddaughter
+```

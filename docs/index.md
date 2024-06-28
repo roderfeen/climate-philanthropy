@@ -3,7 +3,7 @@
 Welcome to Foam-mkdocs-template!
 
 * How to create this website and share your foam/obsidian notes? See: [[tutorial]]
-* [foam](https://github.com/foambubble/foam) chaneges
+* [foam](https://github.com/foambubble/foam) chage
 
 ## Support roamlinks
 
