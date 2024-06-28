@@ -24,7 +24,7 @@
 
 === "English"
 
-    ## Usage：Deploy to github page
+    ## Usage：Deploy to gisthub page
 
     1. fork this repository 
     2. add your documents to `docs` , `docs/index.md` is the main page of the website
