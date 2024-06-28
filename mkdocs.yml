@@ -3,7 +3,7 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: Climate Philanthropy
-site_url: https://roderfeen.github.io/
+site_url: https://roderfeen.github.io/climate-philanthropy/
 theme:
   name: material
   #  favicon: attachment/portrait.png
