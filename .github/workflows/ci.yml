@@ -51,6 +51,8 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
+      - run: pip install mkdocs-exclude
+      - run: pip install mkdocs-roamlinks-plugin
 
 
       - run: mkdocs gh-deploy --force
