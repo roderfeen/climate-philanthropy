@@ -17,7 +17,7 @@ markdown_extensions:
   - nl2br # newline-to-break 
   - toc:
       permalink: '#' # heading anchor 
-      slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+      slugify: !!python/name:pymdownx.slugs.uslugify
   - admonition
   - codehilite:
       guess_lang: false
@@ -55,3 +55,6 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+extra_javascript:
+  - https://unpkg.com/elkjs/lib/elk.bundled.js
+  - js/custom.js
