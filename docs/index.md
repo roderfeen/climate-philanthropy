@@ -7,7 +7,7 @@ Welcome to Foam-mkdocs-template!
 
 ## Support roamlinks
 
-{% include_relative ../mermaid/narrative_tree.md %}
+{% include_relative mermaid/narrative_tree.md %}
 
 [tutorial]: tutorial "Tutorial教程"
 
